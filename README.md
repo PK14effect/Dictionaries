@@ -1,2 +1,2 @@
-# Junior
+# Dictionaries
 My second
